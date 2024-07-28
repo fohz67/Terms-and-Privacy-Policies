@@ -1,0 +1,27 @@
+Support de SpeedMate
+
+Bienvenue sur le support de SpeedMate ! Nous sommes là pour vous aider avec toutes les questions, problèmes ou retours que vous pourriez avoir concernant notre application. Vous trouverez ci-dessous diverses ressources et moyens de nous contacter.
+
+Questions Fréquemment Posées (FAQ)
+
+Comment changer ma photo ?
+Pour changer votre photo, allez dans l’onglet “Profil” et cliquez sur votre photo. Assurez-vous que les permissions d’accès aux photos sont accordées.
+
+Pourquoi mon GPS n’est-il pas précis ?
+Pour obtenir les meilleures données GPS possibles, assurez-vous que votre connexion est stable et de bonne qualité.
+
+Comment réinitialiser le trip ?
+Il n’est pas possible de réinitialiser le trip directement dans l’application. Vous devez redémarrer l’application pour réinitialiser le trip.
+
+Comment réinitialiser l’odomètre ?
+Il n’est pas possible de réinitialiser l’odomètre directement dans l’application. Vous devez réinstaller l’application pour le réinitialiser.
+
+Que faire si l’application crashe ?
+La version actuelle est en bêta, il est donc possible que des bugs surviennent. Merci de nous contacter par e-mail à fohzdev@gmail.com pour signaler les problèmes.
+
+Comment donner mon feedback ?
+Pour tout retour, veuillez nous contacter par e-mail à fohzdev@gmail.com.
+
+Contactez-nous
+
+Pour toute autre question ou assistance, n’hésitez pas à nous contacter par e-mail à fohzdev@gmail.com. Nous sommes là pour vous aider !
