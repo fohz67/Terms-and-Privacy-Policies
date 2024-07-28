@@ -1,0 +1,27 @@
+SpeedMate Support
+
+Welcome to SpeedMate Support! We’re here to assist you with any questions, issues, or feedback you may have about our app. Below you’ll find various resources and ways to contact us.
+
+Frequently Asked Questions (FAQ)
+
+How do I change my photo?
+To change your photo, go to the “Profile” tab and click on your photo. Make sure photo permissions are granted.
+
+Why is my GPS not accurate?
+For the best GPS data, ensure your connection is stable and of good quality.
+
+How do I reset the trip?
+It is not possible to reset the trip directly within the app. You need to restart the app to reset the trip.
+
+How do I reset the odometer?
+It is not possible to reset the odometer directly within the app. You need to reinstall the app to reset the odometer.
+
+What should I do if the app crashes?
+The current version is in beta, so bugs may occur. Please contact us at fohzdev@gmail.com to report any issues.
+
+How can I provide feedback?
+For any feedback, please contact us at fohzdev@gmail.com.
+
+Contact Us
+
+For any other questions or assistance, please reach out to us at fohzdev@gmail.com. We’re here to help!
